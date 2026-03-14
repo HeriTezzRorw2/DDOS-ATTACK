@@ -19,7 +19,7 @@
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/username/ddos-telegram-bot.git
+git clone https://github.com/HeriTezzRorw 2/ddos-telegram-bot.git
 cd ddos-telegram-bot
 
 # 2. Install dependencies
